@@ -52,11 +52,11 @@ DECLARATION :
 I hereby declare that the above mentioned information is true to the best of my knowledge	
 
 
-signature:                                                                                 Date:
-                                                                                           Place:
+                                                                                Date:
+                                                                                Place:
 
 
-                                 thank you!
+                   
 
 
 
